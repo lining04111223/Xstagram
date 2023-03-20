@@ -20,8 +20,9 @@
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
-                <a class="navbar-brand" href="{{ url('/') }}">
-                  <div>Xstagram</div>
+                <a class="navbar-brand d-flex" href="{{ url('/') }}">
+                    <div><img src="/svg/instagram-svgrepo-com.svg" style="height:20px; border-right: 1px solid #333" class="px-2"></div>
+                  <div class="px-2">Xstagram</div>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
