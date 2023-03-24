@@ -14,7 +14,7 @@
 <div class="px-1"><strong>212</strong> following</div> -->
 </div>
 <div class="pt-4"><strong>Xstagram.org</strong></div>
-<div>I love you!</div>
+<div>I love you my wife!</div>
 <div><a href="#">www.google.com</a></div>
 
 
