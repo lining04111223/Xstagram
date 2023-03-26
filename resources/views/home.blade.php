@@ -21,7 +21,7 @@
 </div>
   </div>
 
-<div class="row pt-5">
+<!-- <div class="row pt-5">
 <div class="col-4">
     <img src="https://images.pexels.com/photos/15383518/pexels-photo-15383518.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load" class="w-100 h-100">
 </div>
@@ -31,7 +31,7 @@
 
 <div class="col-4">
     <img src="https://images.pexels.com/photos/9575441/pexels-photo-9575441.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load" class="w-100 h-100">
-</div>
+</div> -->
 
 </div>
 
