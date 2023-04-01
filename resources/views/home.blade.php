@@ -7,7 +7,7 @@
     <img src="/svg/instagram-svgrepo-com.svg" class="rounded-circle" style="height:200px">
 </div>
 <div class="col-9 pt-5">
-<div><h1>Xstagram</h1></div>
+<div><h1>{{$user->username}}</h1></div>
 <div class="d-flex">
 <div class="px-1"><strong>153</strong> posts</div>
 <div class="px-1"><strong>23k</strong> followers</div>
